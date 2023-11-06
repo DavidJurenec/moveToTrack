@@ -1,6 +1,6 @@
-# moveToTrack() - QE Scripting
+# Documentation - moveToTrack() - QE Scripting
 
-**Adobe Premiere Pro with ExtendScript and QE Scripting.**
+**This is documentation for moveToTrack() function that is built into QE Scripting but is not documented.**
 
 ## Function
 
